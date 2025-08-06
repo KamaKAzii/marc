@@ -19,11 +19,11 @@ export default function Home() {
       <div className="flex-1 overflow-y-auto">
         <div className="my-8 mx-4">
           <div className="grid grid-cols-3 gap-4">
-            <Square soundUrl="/one.m4a" />
-            <Square soundUrl="/one.m4a" />
-            <Square soundUrl="/one.m4a" />
-            <Square soundUrl="/one.m4a" />
-            <Square soundUrl="/one.m4a" />
+            <Square soundUrl="/dominated.m4a" />
+            <Square soundUrl="/dersel-angry.m4a" />
+            <Square soundUrl="/dersley-annoyed.m4a" />
+            <Square soundUrl="/exploding.m4a" />
+            <Square soundUrl="/domainted.m4a" />
           </div>
         </div>
       </div>
