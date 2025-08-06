@@ -22,7 +22,10 @@ export default function Home() {
             <Square soundUrl="/dersel.m4a">Dersel</Square>
             <Square soundUrl="/dersel-angry.m4a">Dersel 😡</Square>
             <Square soundUrl="/dersley-annoyed.m4a">Dersley 😒</Square>
-            <Square soundUrl="/dominated.m4a">We Dominated that</Square>
+            <Square soundUrl="/dominated-that.m4a">We Dominated that</Square>
+            <Square soundUrl="/people-are-talking.m4a">
+              People are talking
+            </Square>
             <Square soundUrl="/exploding.m4a">Exploding onto the scene</Square>
             <Square soundUrl="/pay-extra.m4a">Pay extra for that</Square>
             <Square soundUrl="/stop-that.m4a">Stop that!</Square>

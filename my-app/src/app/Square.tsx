@@ -52,7 +52,7 @@ export const Square: React.FC<SquareProps> = ({
 
   return (
     <div
-      className={`aspect-square flex items-center justify-center border border-gray-800 p-4 rounded-md cursor-pointer transition-colors text-sm ${
+      className={`aspect-square flex items-center justify-center border border-gray-800 p-4 rounded-md cursor-pointer transition-colors text-sm text-center ${
         isLoaded ? "hover:bg-gray-900" : "opacity-50 cursor-not-allowed"
       }`}
       onClick={handleClick}
