@@ -23,6 +23,8 @@ export default function Home() {
             <Square soundUrl="/dersel-angry.m4a" />
             <Square soundUrl="/dersley-annoyed.m4a" />
             <Square soundUrl="/exploding.m4a" />
+            <Square soundUrl="/dersel.m4a" />
+            <Square soundUrl="/pay-extra.m4a" />
           </div>
         </div>
       </div>
